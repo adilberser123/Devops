@@ -4,6 +4,7 @@ public class Etudiant {
     private String prenom;
     private int age;
     private String filiere;
+    private int id ;
 
     // Constructeur
     public Etudiant(String nom, String prenom, int age, String filiere) {
